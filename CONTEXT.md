@@ -49,5 +49,5 @@ A loosely-tracked marker (a chapter, part, or narrative arc) that a Meetup sets 
 A catalog entry (from an external book catalog, with freeform fallback if unmatched) that Members nominate and a Club reads together during a Cycle.
 
 **Owner**:
-The Member who created a Club, with sole authority over housekeeping (name, cadence, invites, membership removal). Nomination and voting remain peer-equal among all Members regardless of Owner status.
+The Member who created a Club, with sole authority over housekeeping (name, cadence, invites, membership removal). Nomination and voting remain peer-equal among all Members regardless of Owner status. An Owner may not leave a Club until they nominate another Member as the new Owner — ownership transfers to that Member the moment the original Owner leaves.
 _Avoid_: Admin, moderator
